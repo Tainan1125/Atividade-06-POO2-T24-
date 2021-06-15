@@ -1,0 +1,15 @@
+C:\Users\joaot\source\repos\Conversor de Unidade de Velocidade\Conversor de Unidade de Velocidade\bin\Debug\netcoreapp3.1\Conversor de Unidade de Velocidade.exe
+C:\Users\joaot\source\repos\Conversor de Unidade de Velocidade\Conversor de Unidade de Velocidade\bin\Debug\netcoreapp3.1\Conversor de Unidade de Velocidade.deps.json
+C:\Users\joaot\source\repos\Conversor de Unidade de Velocidade\Conversor de Unidade de Velocidade\bin\Debug\netcoreapp3.1\Conversor de Unidade de Velocidade.runtimeconfig.json
+C:\Users\joaot\source\repos\Conversor de Unidade de Velocidade\Conversor de Unidade de Velocidade\bin\Debug\netcoreapp3.1\Conversor de Unidade de Velocidade.runtimeconfig.dev.json
+C:\Users\joaot\source\repos\Conversor de Unidade de Velocidade\Conversor de Unidade de Velocidade\bin\Debug\netcoreapp3.1\Conversor de Unidade de Velocidade.dll
+C:\Users\joaot\source\repos\Conversor de Unidade de Velocidade\Conversor de Unidade de Velocidade\bin\Debug\netcoreapp3.1\Conversor de Unidade de Velocidade.pdb
+C:\Users\joaot\source\repos\Conversor de Unidade de Velocidade\Conversor de Unidade de Velocidade\obj\Debug\netcoreapp3.1\Conversor de Unidade de Velocidade.csprojAssemblyReference.cache
+C:\Users\joaot\source\repos\Conversor de Unidade de Velocidade\Conversor de Unidade de Velocidade\obj\Debug\netcoreapp3.1\Conversor_de_Unidade_de_Velocidade.Form1.resources
+C:\Users\joaot\source\repos\Conversor de Unidade de Velocidade\Conversor de Unidade de Velocidade\obj\Debug\netcoreapp3.1\Conversor de Unidade de Velocidade.csproj.GenerateResource.cache
+C:\Users\joaot\source\repos\Conversor de Unidade de Velocidade\Conversor de Unidade de Velocidade\obj\Debug\netcoreapp3.1\Conversor de Unidade de Velocidade.AssemblyInfoInputs.cache
+C:\Users\joaot\source\repos\Conversor de Unidade de Velocidade\Conversor de Unidade de Velocidade\obj\Debug\netcoreapp3.1\Conversor de Unidade de Velocidade.AssemblyInfo.cs
+C:\Users\joaot\source\repos\Conversor de Unidade de Velocidade\Conversor de Unidade de Velocidade\obj\Debug\netcoreapp3.1\Conversor de Unidade de Velocidade.csproj.CoreCompileInputs.cache
+C:\Users\joaot\source\repos\Conversor de Unidade de Velocidade\Conversor de Unidade de Velocidade\obj\Debug\netcoreapp3.1\Conversor de Unidade de Velocidade.dll
+C:\Users\joaot\source\repos\Conversor de Unidade de Velocidade\Conversor de Unidade de Velocidade\obj\Debug\netcoreapp3.1\Conversor de Unidade de Velocidade.pdb
+C:\Users\joaot\source\repos\Conversor de Unidade de Velocidade\Conversor de Unidade de Velocidade\obj\Debug\netcoreapp3.1\Conversor de Unidade de Velocidade.genruntimeconfig.cache

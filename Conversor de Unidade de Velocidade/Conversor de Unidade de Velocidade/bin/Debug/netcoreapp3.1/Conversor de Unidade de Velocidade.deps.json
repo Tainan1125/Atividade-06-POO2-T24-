@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Conversor de Unidade de Velocidade/1.0.0": {
+        "runtime": {
+          "Conversor de Unidade de Velocidade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conversor de Unidade de Velocidade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
